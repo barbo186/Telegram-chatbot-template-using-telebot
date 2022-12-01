@@ -1,4 +1,4 @@
-# Telegram-bot-template-using-telebot
+# Telegram bot template using telebot
 
 - Author: barbo186
 - Target: Telegram
