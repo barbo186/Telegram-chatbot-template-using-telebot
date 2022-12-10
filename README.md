@@ -1,9 +1,8 @@
 > Telegram bot template using telebot
 
-- Author: barbo186
-- Target: Telegram
-- Library: telebot
+- Version 1.0
+  
+ ## Libraries
+  - Telebot library.
 
-| Version | Changes |
-| ------- | ------- |
-| 1.0     | Release |
+**MADE BY barbo186**
